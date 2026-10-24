@@ -38,17 +38,19 @@ export default function ContactPage() {
       <section className="contact-hero rv">
         <div className="w">
           <div className="contact-hero-content">
-            <div className="eyebrow">WE'RE HERE TO HELP</div>
+            <div className="eyebrow">
+              WE&apos;RE HERE TO HELP
+            </div>
 
             <h1 className="contact-title">
-              LET'S START A
+              LET&apos;S START A
               <br />
               <strong>CONNECTION.</strong>
             </h1>
 
             <p className="contact-intro">
               Have a question about our NFC calling cards or digital
-              profile websites? We're here to help you find the right
+              profile websites? We&apos;re here to help you find the right
               solution for your personal brand or business.
             </p>
 
@@ -71,15 +73,15 @@ export default function ContactPage() {
           <div className="eyebrow">GET IN TOUCH</div>
 
           <h2>
-            WE'D LOVE TO
+            WE&apos;D LOVE TO
             <br />
             HEAR FROM YOU.
           </h2>
 
           <p className="contact-section-intro">
             Choose the contact method that works best for you.
-            Whether you're exploring our services or ready to order,
-            let's talk about what you need.
+            Whether you&apos;re exploring our services or ready to order,
+            let&apos;s talk about what you need.
           </p>
 
           <div className="g3 contact-options">
@@ -112,7 +114,7 @@ export default function ContactPage() {
               <small>READY TO ORDER?</small>
 
               <h3 className="contact-option-title">
-                Let's build your digital identity.
+                Let&apos;s build your digital identity.
               </h3>
 
               <p>
@@ -171,7 +173,9 @@ export default function ContactPage() {
       <section className="alt rv">
         <div className="w">
           <div className="contact-final">
-            <div className="eyebrow">YOUR NEXT STEP STARTS HERE</div>
+            <div className="eyebrow">
+              YOUR NEXT STEP STARTS HERE
+            </div>
 
             <h2>
               MAKE YOUR NEXT
